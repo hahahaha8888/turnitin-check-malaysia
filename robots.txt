@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hahahaha8888.github.io/turnitin-check-malaysia/sitemap.xml
